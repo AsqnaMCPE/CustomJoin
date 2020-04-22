@@ -1,0 +1,8 @@
+#Join Message
+JoinMsg: §a[+] {player} 
+
+#Private Message
+Msg: §bWelcome to the server, §e{player}§b!
+
+#Quit Message
+QuitMsg: §c[-] {player}
